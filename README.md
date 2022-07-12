@@ -9,7 +9,7 @@ In [this tutorial video](https://youtu.be/dHLNqbKrJdg) you'll see the comparison
 In this tutorial repository, all 3 methods are available for you to compare on your hardware.
 You'll see that the jobs system is not a magic bullet, it solves specific problems such as tasks that can be highly parallelized. You can also use this to determine at which points the parallelization is more helpful than harmful (or just unnecessarily adds code complexity)!
 
-[![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/dHLNqbKrJdg)
+[![Youtube Tutorial](./Video%20Screenshot.jpg)](https://youtu.be/dHLNqbKrJdg)
 
 ## Patreon Supporters
 Have you been getting value out of these tutorials? Do you believe in LlamAcademy's mission of helping everyone make their game dev dream become a reality? Consider becoming a Patreon supporter and get your name added to this list, as well as other cool perks.
